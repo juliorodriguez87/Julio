@@ -1,4 +1,4 @@
-[
+{"restoranes":[
     {
         "nombre": "La Cabaña",
         "direccion": "Calle Ficticia 123, Ciudad Ficticia",
@@ -53,4 +53,4 @@
         "descripcion": "Saborea nuestras jugosas hamburguesas gourmet hechas con los mejores ingredientes.",
         "puntaje": 9.1
     }
-]
+]}
