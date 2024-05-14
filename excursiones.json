@@ -1,0 +1,76 @@
+{
+    "excursiones": [
+      {
+        "nombre": "Caminata al Glaciar Perito Moreno",
+        "actividad": "Disfruta de una emocionante caminata hasta el majestuoso Glaciar Perito Moreno, una de las maravillas naturales más impresionantes de Argentina. Explora sus imponentes hielos azules y escucha el estruendo de los desprendimientos de hielo mientras experimentas la magnificencia de la naturaleza. Esta excursión ofrece una experiencia única para los amantes de la naturaleza y la aventura. Caminar sobre el hielo del Glaciar Perito Moreno es una experiencia inolvidable que te conectará con la grandeza de la Patagonia.",
+        "direccion": "Parque Nacional Los Glaciares, Provincia de Santa Cruz, Argentina",
+        "telefono": "+54 2902 49-8313",
+        "puntuacion": 9.3,
+        "imagen": "URL_de_la_imagen"
+      },
+      {
+        "nombre": "Safari fotográfico en la Selva Misionera",
+        "actividad": "Embárcate en un emocionante safari fotográfico en la exuberante Selva Misionera, hogar de una increíble diversidad de flora y fauna. Captura impresionantes imágenes de animales como jaguares, tapires y aves exóticas en su hábitat natural. Este safari fotográfico es una oportunidad única para explorar uno de los ecosistemas más biodiversos del mundo y capturar momentos inolvidables con tu cámara. Aprende sobre la conservación de la selva tropical mientras te sumerges en su belleza natural.",
+        "direccion": "Provincia de Misiones, Argentina",
+        "telefono": "+54 3757 42-4000",
+        "puntuacion": 8.7,
+        "imagen": "URL_de_la_imagen"
+      },
+      {
+        "nombre": "Ruta del Vino en Mendoza",
+        "actividad": "Descubre los aromas y sabores de los vinos argentinos en la famosa Ruta del Vino en Mendoza. Visita bodegas de renombre, aprende sobre el proceso de elaboración del vino y degusta una variedad de vinos de alta calidad en un entorno pintoresco. La Ruta del Vino en Mendoza ofrece una experiencia sensorial única para los amantes del vino. Sumérgete en la cultura vitivinícola argentina mientras exploras los viñedos, degustas vinos premiados y disfrutas de la hospitalidad de las bodegas locales.",
+        "direccion": "Provincia de Mendoza, Argentina",
+        "telefono": "+54 261 429-2973",
+        "puntuacion": 9.0,
+        "imagen": "URL_de_la_imagen"
+      },
+      {
+        "nombre": "Aventura en el Parque Nacional Iguazú",
+        "actividad": "Embárcate en una emocionante aventura en el Parque Nacional Iguazú, hogar de las impresionantes Cataratas del Iguazú. Explora senderos escénicos, navega por el río Iguazú y admira las majestuosas cataratas desde diferentes ángulos. Esta aventura en el Parque Nacional Iguazú te sumergirá en un mundo de belleza natural y emociones. Descubre la grandeza de las Cataratas del Iguazú mientras te aventuras en la selva subtropical y experimentas la energía de las aguas.",
+        "direccion": "Provincia de Misiones, Argentina",
+        "telefono": "+54 3757 491-111",
+        "puntuacion": 8.9,
+        "imagen": "URL_de_la_imagen"
+      },
+      {
+        "nombre": "Exploración del Glaciar Martial",
+        "actividad": "Sumérgete en la belleza prístina del Glaciar Martial con una emocionante exploración. Camina por senderos rodeados de impresionantes paisajes montañosos y observa la majestuosidad de los glaciares. Una experiencia perfecta para los amantes del trekking y la naturaleza.",
+        "direccion": "Ushuaia, Tierra del Fuego, Argentina",
+        "telefono": "+54 2901 42-0044",
+        "puntuacion": 8.5,
+        "imagen": "URL_de_la_imagen"
+      },
+      {
+        "nombre": "Avistamiento de Ballenas en Península Valdés",
+        "actividad": "Embárcate en una emocionante aventura para avistar ballenas en la Península Valdés, uno de los mejores lugares del mundo para observar ballenas. Disfruta de la experiencia única de ver ballenas jorobadas y francas australes en su hábitat natural, mientras aprendes sobre su comportamiento y conservación.",
+        "direccion": "Provincia de Chubut, Argentina",
+        "telefono": "+54 2965 49-3005",
+        "puntuacion": 9.2,
+        "imagen": "URL_de_la_imagen"
+      },
+      {
+        "nombre": "Recorrido por las Ruinas de Quilmes",
+        "actividad": "Explora las fascinantes ruinas de Quilmes, un antiguo asentamiento precolombino en las colinas de los Valles Calchaquíes. Descubre la historia y cultura de los pueblos originarios mientras recorres las ruinas y aprendes sobre sus tradiciones y modos de vida.",
+        "direccion": "Provincia de Tucumán, Argentina",
+        "telefono": "+54 3837 49-8047",
+        "puntuacion": 8.8,
+        "imagen": "URL_de_la_imagen"
+      },
+      {
+        "nombre": "Navegación por el Canal Beagle",
+        "actividad": "Embárcate en una emocionante navegación por el Canal Beagle, explorando los paisajes vírgenes y la fauna marina de Tierra del Fuego. Descubre lugares emblemáticos como el Faro Les Éclaireurs y observa la vida salvaje de la región, incluidos lobos marinos y aves marinas.",
+        "direccion": "Ushuaia, Tierra del Fuego, Argentina",
+        "telefono": "+54 2901 42-0044",
+        "puntuacion": 9.1,
+        "imagen": "URL_de_la_imagen"
+      },
+      {
+        "nombre": "Senderismo en el Cerro Fitz Roy",
+        "actividad": "Sumérgete en la majestuosidad de los Andes Patagónicos con una emocionante excursión de senderismo al Cerro Fitz Roy. Disfruta de vistas panorámicas impresionantes de picos nevados, lagos turquesa y glaciares en esta caminata épica. Una experiencia inolvidable para los amantes del trekking y la naturaleza.",
+        "direccion": "Parque Nacional Los Glaciares, Provincia de Santa Cruz, Argentina",
+        "telefono": "+54 2902 49-8313",
+        "puntuacion": 9.5,
+        "imagen": "URL_de_la_imagen"
+      }
+    ]
+  }
