@@ -1,76 +1,76 @@
 {
     "excursiones": [
       {
-        "nombre": "Caminata al Glaciar Perito Moreno",
-        "actividad": "Disfruta de una emocionante caminata hasta el majestuoso Glaciar Perito Moreno, una de las maravillas naturales más impresionantes de Argentina. Explora sus imponentes hielos azules y escucha el estruendo de los desprendimientos de hielo mientras experimentas la magnificencia de la naturaleza. Esta excursión ofrece una experiencia única para los amantes de la naturaleza y la aventura. Caminar sobre el hielo del Glaciar Perito Moreno es una experiencia inolvidable que te conectará con la grandeza de la Patagonia.",
+        "nombre": "Trekking en el Volcán Ojos del Salado",
+        "actividad": "Embárcate en una emocionante aventura de trekking hasta la cumbre del Volcán Ojos del Salado, el volcán más alto del mundo. Experimenta la majestuosidad de los paisajes andinos mientras conquistas este desafío épico. Una experiencia inolvidable para los amantes del alpinismo y la naturaleza extrema.",
         "direccion": "Parque Nacional Los Glaciares, Provincia de Santa Cruz, Argentina",
         "telefono": "+54 2902 49-8313",
         "puntuacion": 9.3,
-        "imagen": "URL_de_la_imagen"
+        "imagen": "https://aventurismo.cl/ojosdelsalado/wp-content/uploads/2013/11/DSC_0775.jpg"
       },
       {
-        "nombre": "Safari fotográfico en la Selva Misionera",
-        "actividad": "Embárcate en un emocionante safari fotográfico en la exuberante Selva Misionera, hogar de una increíble diversidad de flora y fauna. Captura impresionantes imágenes de animales como jaguares, tapires y aves exóticas en su hábitat natural. Este safari fotográfico es una oportunidad única para explorar uno de los ecosistemas más biodiversos del mundo y capturar momentos inolvidables con tu cámara. Aprende sobre la conservación de la selva tropical mientras te sumerges en su belleza natural.",
+        "nombre": "Visita a las Ruinas de Shincal",
+        "actividad": "Descubre la fascinante historia de la cultura diaguita en las Ruinas de Shincal, un antiguo centro ceremonial ubicado en las áridas tierras de Catamarca. Recorre las estructuras arqueológicas y maravíllate con las vistas panorámicas de los valles circundantes. Una experiencia enriquecedora para los amantes de la arqueología y la cultura precolombina.",
         "direccion": "Provincia de Misiones, Argentina",
         "telefono": "+54 3757 42-4000",
         "puntuacion": 8.7,
-        "imagen": "URL_de_la_imagen"
+        "imagen": "https://media-cdn.tripadvisor.com/media/photo-s/06/4f/82/65/ruinas-de-el-shincal.jpg"
       },
       {
-        "nombre": "Ruta del Vino en Mendoza",
-        "actividad": "Descubre los aromas y sabores de los vinos argentinos en la famosa Ruta del Vino en Mendoza. Visita bodegas de renombre, aprende sobre el proceso de elaboración del vino y degusta una variedad de vinos de alta calidad en un entorno pintoresco. La Ruta del Vino en Mendoza ofrece una experiencia sensorial única para los amantes del vino. Sumérgete en la cultura vitivinícola argentina mientras exploras los viñedos, degustas vinos premiados y disfrutas de la hospitalidad de las bodegas locales.",
+        "nombre": "Descubriendo el Parque Nacional El Rodeo",
+        "actividad": "Sumérgete en la belleza natural del Parque Nacional El Rodeo, hogar de espectaculares paisajes montañosos y una increíble diversidad de flora y fauna. Explora sus senderos escénicos, admira cascadas cristalinas y disfruta de la tranquilidad de la naturaleza virgen. Una experiencia relajante y revitalizante para los amantes del ecoturismo y la vida al aire libre.",
         "direccion": "Provincia de Mendoza, Argentina",
         "telefono": "+54 261 429-2973",
         "puntuacion": 9.0,
-        "imagen": "URL_de_la_imagen"
+        "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYpDeMHLKhIgPy8xpKQeuNbkUt_dNCAglgFpZTWvPOxySQZNoy5bdLX3EMG3K5wy2EdHnVrVhfyONcB5TO2JXdOR6K_AnvO7CYj1dYgsDBIgczUPaiK0INdCtHtfiAOHY1Gv6e7rc3RN58/s1600/Fotos+imagenes+monta%C3%B1as+paisajes+turismo+El+Rodeo+Catamarca+Argentina+photos+pictures+landscapes+mountains++(10).JPG"
       },
       {
-        "nombre": "Aventura en el Parque Nacional Iguazú",
-        "actividad": "Embárcate en una emocionante aventura en el Parque Nacional Iguazú, hogar de las impresionantes Cataratas del Iguazú. Explora senderos escénicos, navega por el río Iguazú y admira las majestuosas cataratas desde diferentes ángulos. Esta aventura en el Parque Nacional Iguazú te sumergirá en un mundo de belleza natural y emociones. Descubre la grandeza de las Cataratas del Iguazú mientras te aventuras en la selva subtropical y experimentas la energía de las aguas.",
+        "nombre": "Senderismo en el Cerro Ambato",
+        "actividad": "Embárcate en una emocionante excursión de senderismo al Cerro Ambato, una montaña icónica de la provincia de Catamarca. Disfruta de vistas panorámicas impresionantes de los valles y montañas circundantes mientras exploras senderos escénicos y te conectas con la naturaleza. Una experiencia perfecta para los amantes del trekking y la aventura al aire libre.",
         "direccion": "Provincia de Misiones, Argentina",
         "telefono": "+54 3757 491-111",
         "puntuacion": 8.9,
-        "imagen": "URL_de_la_imagen"
+        "imagen": "https://www.argentinaextrema.com/images/turismo-aventura-paquetes/trekking-montana-del-mes-el-manchao-4550-msnm-catamarca-489.jpg"
       },
       {
-        "nombre": "Exploración del Glaciar Martial",
-        "actividad": "Sumérgete en la belleza prístina del Glaciar Martial con una emocionante exploración. Camina por senderos rodeados de impresionantes paisajes montañosos y observa la majestuosidad de los glaciares. Una experiencia perfecta para los amantes del trekking y la naturaleza.",
+        "nombre": "Ruta del Adobe por los Pueblos de Catamarca",
+        "actividad": "Sumérgete en la historia y la arquitectura colonial de Catamarca con un recorrido por la Ruta del Adobe. Visita pintorescos pueblos que conservan su encanto colonial y descubre las antiguas técnicas de construcción de adobe. Disfruta de la hospitalidad de los lugareños y aprende sobre la rica herencia cultural de la región.",
         "direccion": "Ushuaia, Tierra del Fuego, Argentina",
         "telefono": "+54 2901 42-0044",
         "puntuacion": 8.5,
-        "imagen": "URL_de_la_imagen"
+        "imagen": "https://www.cilsa.org/wp-content/uploads/2020/05/IMG_8877-747x370.jpg"
       },
       {
-        "nombre": "Avistamiento de Ballenas en Península Valdés",
-        "actividad": "Embárcate en una emocionante aventura para avistar ballenas en la Península Valdés, uno de los mejores lugares del mundo para observar ballenas. Disfruta de la experiencia única de ver ballenas jorobadas y francas australes en su hábitat natural, mientras aprendes sobre su comportamiento y conservación.",
+        "nombre": "Explorando la Quebrada de Las Conchas",
+        "actividad": "Descubre la belleza surrealista de la Quebrada de Las Conchas con una emocionante excursión de exploración. Admira formaciones rocosas impresionantes esculpidas por millones de años de erosión y maravíllate con los colores vibrantes del paisaje. Una experiencia visualmente deslumbrante para los amantes de la geología y la fotografía.",
         "direccion": "Provincia de Chubut, Argentina",
         "telefono": "+54 2965 49-3005",
         "puntuacion": 9.2,
-        "imagen": "URL_de_la_imagen"
+        "imagen": "https://cdn.getyourguide.com/img/tour/5d45fd4decd49.jpeg/97.jpg"
       },
       {
-        "nombre": "Recorrido por las Ruinas de Quilmes",
-        "actividad": "Explora las fascinantes ruinas de Quilmes, un antiguo asentamiento precolombino en las colinas de los Valles Calchaquíes. Descubre la historia y cultura de los pueblos originarios mientras recorres las ruinas y aprendes sobre sus tradiciones y modos de vida.",
+        "nombre": "Avistamiento de Cóndores en el Mirador del Portezuelo",
+        "actividad": " Contempla la majestuosidad del cóndor andino en vuelo con una visita al Mirador del Portezuelo, uno de los mejores lugares para avistar estas magníficas aves en Catamarca. Maravíllate con sus vuelos majestuosos y observa su comportamiento en su hábitat natural. Una experiencia inolvidable para los amantes de la ornitología y la observación de aves.",
         "direccion": "Provincia de Tucumán, Argentina",
         "telefono": "+54 3837 49-8047",
         "puntuacion": 8.8,
-        "imagen": "URL_de_la_imagen"
+        "imagen": "https://img.lagaceta.com.ar/fotos/notas/2023/10/25/vacaciones-2023-24-avistaje-condores-catamarca-gran-espectaculo-natural-1011383-113853.jpg"
       },
       {
-        "nombre": "Navegación por el Canal Beagle",
-        "actividad": "Embárcate en una emocionante navegación por el Canal Beagle, explorando los paisajes vírgenes y la fauna marina de Tierra del Fuego. Descubre lugares emblemáticos como el Faro Les Éclaireurs y observa la vida salvaje de la región, incluidos lobos marinos y aves marinas.",
+        "nombre": "Recorrido por la Ruta del Valle Calchaquí",
+        "actividad": "Sumérgete en la belleza escénica y la historia de la Ruta del Valle Calchaquí con un emocionante recorrido por esta pintoresca región de Catamarca. Descubre pueblos pintorescos, antiguas ruinas y paisajes deslumbrantes mientras te adentras en el corazón de los Valles Calchaquíes. Una experiencia cultural y paisajística para todos los viajeros.",
         "direccion": "Ushuaia, Tierra del Fuego, Argentina",
         "telefono": "+54 2901 42-0044",
         "puntuacion": 9.1,
-        "imagen": "URL_de_la_imagen"
+        "imagen": "https://resizer.glanacion.com/resizer/v2/lugares-viaja-la-ruta-de-los-valles-VKGBT7CUVBBKLHLLA6WNKLZPJU.jpg?auth=353409f4e234dca8d29605e8f6e0b0927ca900251573e9b2dfd6ef9b320e592b&width=880&height=586&quality=70&smart=true"
       },
       {
-        "nombre": "Senderismo en el Cerro Fitz Roy",
-        "actividad": "Sumérgete en la majestuosidad de los Andes Patagónicos con una emocionante excursión de senderismo al Cerro Fitz Roy. Disfruta de vistas panorámicas impresionantes de picos nevados, lagos turquesa y glaciares en esta caminata épica. Una experiencia inolvidable para los amantes del trekking y la naturaleza.",
+        "nombre": "Aventura en la Laguna de Las Pitas",
+        "actividad": "Embárcate en una emocionante aventura en la Laguna de Las Pitas, un oasis escondido en medio del desierto de Catamarca. Explora sus aguas cristalinas, disfruta de actividades acuáticas como el kayak y la pesca, y relájate en sus orillas mientras contemplas la belleza del paisaje circundante. Una escapada perfecta para los amantes de la naturaleza y la aventura.",
         "direccion": "Parque Nacional Los Glaciares, Provincia de Santa Cruz, Argentina",
         "telefono": "+54 2902 49-8313",
         "puntuacion": 9.5,
-        "imagen": "URL_de_la_imagen"
+        "imagen": "https://billiken.lat/wp-content/uploads/2022/08/FBimage-1024x683-copia.png"
       }
     ]
   }
