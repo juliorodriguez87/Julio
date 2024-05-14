@@ -5,7 +5,7 @@
         "direccion": "Calle Ficticia 123, Ciudad Ficticia",
         "descripcion": "Disfruta de auténtica cocina casera en un ambiente acogedor.",
         "puntaje": 8.5,
-        "imagen": "https://lacabana.com.ar/wp-content/uploads/2020/06/la_cabana_29_r-1392x630.jpg"
+        "imagen": "./img/restoran1"
     },
     {
         "nombre": "El Sabor de México",
